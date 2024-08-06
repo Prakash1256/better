@@ -1,6 +1,9 @@
-# Better.com Replica
+# Better.com 
 
 This project is a multi-page web application built using React with Next.js. It replicates the design, layout, and functionality of specific pages from Better.com.
+
+deployed Link:-https://fluffy-lokum-2e9ded.netlify.app/
+
 
 ## Project Overview
 
